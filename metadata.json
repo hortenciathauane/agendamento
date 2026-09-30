@@ -1,0 +1,6 @@
+{
+  "name": "Studio Bella - Agendamento para Cabeleireira",
+  "description": "Sistema de agendamento online responsivo para salão de cabeleireira com painel administrativo e integração com WhatsApp Business API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
